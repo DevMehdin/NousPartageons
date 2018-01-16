@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NousPartageons App</string>
+    <string name="entrer_message">Entrer Message...</string>
+    <string name="connecter">CONNECTER</string>
+    <string name="se_connecter_votre_compte">Se connecter à votre compte</string>
+    <string name="email">Email</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="nom_complet">Nom Complet</string>
+    <string name="status">Status</string>
+    <string name="total_des_amis">Total des amis</string>
+    <string name="envoyer_invitation">ENVOYER INVITATION</string>
+    <string name="annuler_l_invitation">ANNULER L\'INVITATION</string>
+    <string name="creer_compte">CREER COMPTE</string>
+    <string name="creer_un_nouveau_compte">CREER UN NOUVEAU COMPTE</string>
+    <string name="changer_status">CHANGER STATUS</string>
+    <string name="changer_image">CHANGER IMAGE</string>
+    <string name="bonjour_j_utilise_nous_partageons_app">Bonjour, j\'utilise Nous Partageons App</string>
+    <string name="bienvenue_nouspatageons_app">Bienvenue à NousPatageons App</string>
+    <string name="vous_avez_un_compte">VOUS AVEZ UN COMPTE</string>
+    <string name="votre_status">Votre status</string>
+    <string name="sauvegardefr">SAUVEGARDEFR</string>
+    <string name="derni_re_vue">Dernière vue</string>
+    <string name="les_invitations">les invitations</string>
+    <string name="message_text">message text</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
